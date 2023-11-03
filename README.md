@@ -1,4 +1,4 @@
-# Env_Adjusted_TM
+# Environment-adjusted Topic Models
 
 08/18:
 
